@@ -1,0 +1,14 @@
+C:\Users\camdi\source\repos\8-23-23\8-23-23\bin\Debug\net7.0\8-23-23.exe
+C:\Users\camdi\source\repos\8-23-23\8-23-23\bin\Debug\net7.0\8-23-23.deps.json
+C:\Users\camdi\source\repos\8-23-23\8-23-23\bin\Debug\net7.0\8-23-23.runtimeconfig.json
+C:\Users\camdi\source\repos\8-23-23\8-23-23\bin\Debug\net7.0\8-23-23.dll
+C:\Users\camdi\source\repos\8-23-23\8-23-23\bin\Debug\net7.0\8-23-23.pdb
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.AssemblyInfoInputs.cache
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.AssemblyInfo.cs
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.csproj.CoreCompileInputs.cache
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.dll
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\refint\8-23-23.dll
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.pdb
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\8-23-23.genruntimeconfig.cache
+C:\Users\camdi\source\repos\8-23-23\8-23-23\obj\Debug\net7.0\ref\8-23-23.dll
